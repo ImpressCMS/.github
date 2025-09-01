@@ -2,6 +2,9 @@
 
 - you are on your way to being part of a community-driven, multi-lingual content management system!
 
+### Start with the core
+- [ImpressCMS](https://github.com/ImpressCMS/impresscms)
+
 ### Add Modules
 - [ImpressModules](https://github.com/ImpressModules)
 - [IPFModules](https://github.com/IPFModules)
