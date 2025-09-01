@@ -20,6 +20,12 @@
 
 ### Customize the look with Themes
 
+### Contributing to the core
+- Choose an [issue](https://github.com/ImpressCMS/impresscms/issues) to work on
+- Create a [fork](https://github.com/ImpressCMS/impresscms/fork) of the ImpressCMS repository
+- Follow our [coding style guidelines](https://www.impresscms.org/modules/simplywiki/index.php?page=Coding_Standards)
+- Follow our [workflow](https://www.impresscms.org/modules/simplywiki/index.php?page=Git+Workflow)
+
 <!--
 
 **Here are some ideas to get you started:**
