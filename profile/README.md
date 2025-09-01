@@ -3,8 +3,17 @@
 - you are on your way to being part of a community-driven, multi-lingual content management system.
 
 ### Add Modules
+- ImpressModules
+- IPFModules
+- IsengardBiz
+- AmaryllisModules
+- iForumModule
+- VariousImpressCMSModulesBox 
 
 ### Legacy modules
+- SmartFactoryCA
+- ImpressedMastop
+- ImpressedExt 
 
 ### Customize the look with Themes
 
