@@ -21,7 +21,7 @@
 - Follow our [coding style guidelines](https://www.impresscms.org/modules/simplywiki/index.php?page=Coding_Standards)
 - Follow our [workflow](https://www.impresscms.org/modules/simplywiki/index.php?page=Git+Workflow)
 
-### Legacy modules that might need aome updating to work
+### Legacy modules that might need some updating to work
 - [SmartFactoryCA](https://github.com/SmartFactoryCA)
 - [ImpressedMastop](https://github.com/ImpressedMastop)
 - [ImpressedExt](https://github.com/ImpressedExt)
