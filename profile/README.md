@@ -3,7 +3,7 @@
 - you are on your way to being part of a community-driven, multi-lingual content management system.
 
 ### Add Modules
-- ImpressModules
+- [ImpressModules](https://github.com/ImpressModules)
 - IPFModules
 - IsengardBiz
 - AmaryllisModules
