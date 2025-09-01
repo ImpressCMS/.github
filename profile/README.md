@@ -26,6 +26,9 @@
 - [ImpressedMastop](https://github.com/ImpressedMastop)
 - [ImpressedExt](https://github.com/ImpressedExt)
 
+### Getting Help
+- [The Community Forums](https://www.impresscms.org/modules/iforum/)
+
 <!--
 
 **Here are some ideas to get you started:**
