@@ -1,4 +1,6 @@
-## Welcome to the ImpressCMS core repositories - you are on your way to being part of a community-driven, multi-lingual content management system.
+## Welcome to the ImpressCMS core repositories
+
+- you are on your way to being part of a community-driven, multi-lingual content management system.
 
 <!--
 
