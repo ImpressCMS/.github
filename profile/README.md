@@ -2,6 +2,12 @@
 
 - you are on your way to being part of a community-driven, multi-lingual content management system.
 
+### Add Modules
+
+### Legacy modules
+
+### Customize the look with Themes
+
 <!--
 
 **Here are some ideas to get you started:**
