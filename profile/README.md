@@ -1,19 +1,19 @@
 ## Welcome to the ImpressCMS core repositories
 
-- you are on your way to being part of a community-driven, multi-lingual content management system.
+- you are on your way to being part of a community-driven, multi-lingual content management system!
 
 ### Add Modules
 - [ImpressModules](https://github.com/ImpressModules)
-- IPFModules
-- IsengardBiz
-- AmaryllisModules
-- iForumModule
-- VariousImpressCMSModulesBox 
+- [IPFModules](https://github.com/IPFModules)
+- [IsengardBiz](https://github.com/IsengardBiz)
+- [AmaryllisModules](https://github.com/AmaryllisModules)
+- [iForumModule](https://github.com/iForumModule)
+- [VariousImpressCMSModulesBox](https://github.com/VariousImpressCMSModulesBox)
 
 ### Legacy modules
-- SmartFactoryCA
-- ImpressedMastop
-- ImpressedExt 
+- [SmartFactoryCA](https://github.com/SmartFactoryCA)
+- [ImpressedMastop](https://github.com/ImpressedMastop)
+- [ImpressedExt](https://github.com/ImpressedExt)
 
 ### Customize the look with Themes
 
