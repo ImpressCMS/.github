@@ -13,11 +13,6 @@
 - [iForumModule](https://github.com/iForumModule)
 - [VariousImpressCMSModulesBox](https://github.com/VariousImpressCMSModulesBox)
 
-### Legacy modules
-- [SmartFactoryCA](https://github.com/SmartFactoryCA)
-- [ImpressedMastop](https://github.com/ImpressedMastop)
-- [ImpressedExt](https://github.com/ImpressedExt)
-
 ### Customize the look with Themes
 
 ### Contributing to the core
@@ -25,6 +20,11 @@
 - Create a [fork](https://github.com/ImpressCMS/impresscms/fork) of the ImpressCMS repository
 - Follow our [coding style guidelines](https://www.impresscms.org/modules/simplywiki/index.php?page=Coding_Standards)
 - Follow our [workflow](https://www.impresscms.org/modules/simplywiki/index.php?page=Git+Workflow)
+
+### Legacy modules that might need aome updating to work
+- [SmartFactoryCA](https://github.com/SmartFactoryCA)
+- [ImpressedMastop](https://github.com/ImpressedMastop)
+- [ImpressedExt](https://github.com/ImpressedExt)
 
 <!--
 
