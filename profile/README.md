@@ -15,7 +15,7 @@ Modules extend the capabilities of your site so you can provide just what you ne
 - [VariousImpressCMSModulesBox](https://github.com/VariousImpressCMSModulesBox)
 
 ### Legacy Modules
-These might need some work to be functional in a current instance of ImpressCMS. ICMS v 1.3 introduced a tool to help find deprecated functions and point you in the right direction to update them. It's included in the core and you just need to enable debugging for the site to find those deprecated functions. You'll probably want to start testing these modules in an instance running ImpressCMS 1.3.11 to begin the update process.
+These might need some work to be functional in a current instance of ImpressCMS. ICMS v 1.3 introduced a tool to help find deprecated functions and point you in the right direction to update them. It's included in the core and you just need to enable debugging for the site to find those deprecated functions. You'll probably want to start testing these modules in an instance running [ImpressCMS v1.3.12](https://github.com/ImpressCMS/impresscms/releases/tag/v1.3.12) to begin the update process.
 - [SmartFactoryCA](https://github.com/SmartFactoryCA)
 - [ImpressedMastop](https://github.com/ImpressedMastop)
 - [ImpressedExt](https://github.com/ImpressedExt)
