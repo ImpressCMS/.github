@@ -6,12 +6,19 @@
 - [ImpressCMS](https://github.com/ImpressCMS/impresscms)
 
 ### Add Modules
+Modules extend the capabilities of your site so you can provide just what you need without the added weight of things you don't. You can also pick the best in class, depending on your needs.
 - [ImpressModules](https://github.com/ImpressModules)
 - [IPFModules](https://github.com/IPFModules)
 - [IsengardBiz](https://github.com/IsengardBiz)
 - [AmaryllisModules](https://github.com/AmaryllisModules)
 - [iForumModule](https://github.com/iForumModule)
 - [VariousImpressCMSModulesBox](https://github.com/VariousImpressCMSModulesBox)
+
+### Legacy Modules
+These might need some work to be functional in a current instance of ImpressCMS. ICMS v 1.3 introduced a tool to help find deprecated functions and point you in the right direction to update them. It's included in the core and you just need to enable debugging for the site to find those deprecated functions. You'll probably want to start testing these modules in an instance running ImpressCMS 1.3.11 to begin the update process.
+- [SmartFactoryCA](https://github.com/SmartFactoryCA)
+- [ImpressedMastop](https://github.com/ImpressedMastop)
+- [ImpressedExt](https://github.com/ImpressedExt)
 
 ### Customize the look with Themes
 
@@ -20,11 +27,6 @@
 - Create a [fork](https://github.com/ImpressCMS/impresscms/fork) of the ImpressCMS repository
 - Follow our [coding style guidelines](https://www.impresscms.org/modules/simplywiki/index.php?page=Coding_Standards)
 - Follow our [workflow](https://www.impresscms.org/modules/simplywiki/index.php?page=Git+Workflow)
-
-### Legacy modules that might need some updating to work
-- [SmartFactoryCA](https://github.com/SmartFactoryCA)
-- [ImpressedMastop](https://github.com/ImpressedMastop)
-- [ImpressedExt](https://github.com/ImpressedExt)
 
 ### Getting Help
 - [The Community Forums](https://www.impresscms.org/modules/iforum/)
